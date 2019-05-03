@@ -1,0 +1,14 @@
+D:\code\stringPalin\stringPalin\obj\Debug\netcoreapp2.1\stringPalin.csprojAssemblyReference.cache
+D:\code\stringPalin\stringPalin\obj\Debug\netcoreapp2.1\stringPalin.csproj.CoreCompileInputs.cache
+D:\code\stringPalin\stringPalin\obj\Debug\netcoreapp2.1\stringPalin.RazorAssemblyInfo.cache
+D:\code\stringPalin\stringPalin\obj\Debug\netcoreapp2.1\stringPalin.RazorAssemblyInfo.cs
+D:\code\stringPalin\stringPalin\obj\Debug\netcoreapp2.1\stringPalin.AssemblyInfoInputs.cache
+D:\code\stringPalin\stringPalin\obj\Debug\netcoreapp2.1\stringPalin.AssemblyInfo.cs
+D:\code\stringPalin\stringPalin\bin\Debug\netcoreapp2.1\stringPalin.deps.json
+D:\code\stringPalin\stringPalin\bin\Debug\netcoreapp2.1\stringPalin.runtimeconfig.json
+D:\code\stringPalin\stringPalin\bin\Debug\netcoreapp2.1\stringPalin.runtimeconfig.dev.json
+D:\code\stringPalin\stringPalin\bin\Debug\netcoreapp2.1\stringPalin.dll
+D:\code\stringPalin\stringPalin\bin\Debug\netcoreapp2.1\stringPalin.pdb
+D:\code\stringPalin\stringPalin\obj\Debug\netcoreapp2.1\stringPalin.RazorTargetAssemblyInfo.cache
+D:\code\stringPalin\stringPalin\obj\Debug\netcoreapp2.1\stringPalin.dll
+D:\code\stringPalin\stringPalin\obj\Debug\netcoreapp2.1\stringPalin.pdb
